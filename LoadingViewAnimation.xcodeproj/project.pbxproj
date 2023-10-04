@@ -11,6 +11,8 @@
 		846B032C2ACDDC8800876B6A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846B032B2ACDDC8800876B6A /* ContentView.swift */; };
 		846B032E2ACDDC8E00876B6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 846B032D2ACDDC8E00876B6A /* Assets.xcassets */; };
 		846B03312ACDDC8E00876B6A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 846B03302ACDDC8E00876B6A /* Preview Assets.xcassets */; };
+		846B03382ACDDE7900876B6A /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846B03372ACDDE7900876B6A /* StartView.swift */; };
+		846B033A2ACDDF1200876B6A /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846B03392ACDDF1200876B6A /* AnimationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		846B032B2ACDDC8800876B6A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		846B032D2ACDDC8E00876B6A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		846B03302ACDDC8E00876B6A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		846B03372ACDDE7900876B6A /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
+		846B03392ACDDF1200876B6A /* AnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				846B032B2ACDDC8800876B6A /* ContentView.swift */,
 				846B032D2ACDDC8E00876B6A /* Assets.xcassets */,
 				846B032F2ACDDC8E00876B6A /* Preview Content */,
+				846B03372ACDDE7900876B6A /* StartView.swift */,
+				846B03392ACDDF1200876B6A /* AnimationView.swift */,
 			);
 			path = LoadingViewAnimation;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				846B03382ACDDE7900876B6A /* StartView.swift in Sources */,
+				846B033A2ACDDF1200876B6A /* AnimationView.swift in Sources */,
 				846B032C2ACDDC8800876B6A /* ContentView.swift in Sources */,
 				846B032A2ACDDC8800876B6A /* LoadingViewAnimationApp.swift in Sources */,
 			);
